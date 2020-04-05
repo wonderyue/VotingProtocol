@@ -319,4 +319,5 @@ So C10, C11, C12 will successfully write 0.txt and 8.txt; C13 will successfully 
 |S4|4.txt, 6.txt|
 |S5|8.txt|
 |S6|8.txt|
+
 All the files with the same name are identical. Result and analysis are consistent.
